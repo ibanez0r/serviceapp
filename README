@@ -1,2 +1,2 @@
-This is a Win32 Service app written in Delphi using only API calls removing huge amouns of m$ bloat from ur service execuutable, a basic service will
-compile to around 30kb.
+This is a Win32 Service app written in Delphi using only API calls removing huge amounts of m$ bloat from your service executable, a basic service will
+compile to around 30kb!!!
